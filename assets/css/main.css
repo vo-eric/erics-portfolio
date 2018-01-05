@@ -1598,13 +1598,13 @@
 			display: flex;
 		}
 
-		#about ul {
+		#skills ul {
 			display: flex;
 			list-style: none;
 			flex-wrap: wrap;
 		}
 
-		#about ul li {
+		#skills ul li {
 			margin-left: 5px;
 			margin-right: 5px;
 			font-size: 60px;
